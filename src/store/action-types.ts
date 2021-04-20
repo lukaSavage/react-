@@ -1,7 +1,4 @@
-const INCRESE = 'INCRESE';
-const INCRESE_ASYNC = 'INCRESE_ASYNC';
+export const INCRESE = 'INCRESE';
+export const INCRESE_ASYNC = 'INCRESE_ASYNC';
+export const FETCH_REQ = 'FETCH_REQ';
 
-export {
-    INCRESE,
-    INCRESE_ASYNC
-}
